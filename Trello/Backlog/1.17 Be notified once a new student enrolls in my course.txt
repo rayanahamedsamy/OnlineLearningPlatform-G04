@@ -1,0 +1,3 @@
+Labels: Instructor
+
+Description: I am aware that a student has joined.

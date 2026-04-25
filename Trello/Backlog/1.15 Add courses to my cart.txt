@@ -1,0 +1,3 @@
+Labels: Student
+
+Description: I can see the cart with selected items.

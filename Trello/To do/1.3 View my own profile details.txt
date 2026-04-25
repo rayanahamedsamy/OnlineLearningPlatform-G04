@@ -1,0 +1,3 @@
+Labels: Admin, Moderator, Instructor, Student
+
+Description: I can see a list that contains information provided in the registration form

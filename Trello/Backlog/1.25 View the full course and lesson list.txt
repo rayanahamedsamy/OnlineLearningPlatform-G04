@@ -1,0 +1,3 @@
+Labels: Admin, Moderator, Instructor, Student
+
+Description: I can see all available educational content

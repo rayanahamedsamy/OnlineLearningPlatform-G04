@@ -1,0 +1,3 @@
+Labels: Student
+
+Description: I can gain access to the course materials.
